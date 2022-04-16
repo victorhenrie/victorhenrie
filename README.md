@@ -6,8 +6,8 @@
 
 <div align="center" style="box-sizing: border-box">>
   <a href="https://github.com/victorhenrie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhenrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenrie&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhenrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenrie&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
