@@ -4,7 +4,7 @@
 - 🌱 Estudando Sass e JavaScript
 - 😄 Pronomes: ele/dele
 
-<div align="center" style="display: flex">
+<div align="center" style="display: flex; flex-wrap: nowrap">
   <a href="https://github.com/victorhenrie">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorhenrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenrie&layout=compact&langs_count=7&theme=dracula"/>
