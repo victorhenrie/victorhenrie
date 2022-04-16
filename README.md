@@ -1,8 +1,8 @@
 ### Olá! Eu sou Victor Silva 👋
 
-- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica.
-- 🌱 Estudando Sass e JavaScript
-- 😄 Pronomes: ele/dele
+- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica, no entanto encontrei uma nova paixão que é o mundo o desenvolvimento Front-End e estou em busca de entrar nessa área e me aperfeiçõar cada vez mais.
+- 🌱 Estudando Front-End, mais específicamente Sass e JavaScript
+- 😄🏳‍🌈  Pronomes: ele/dele 
 
 <div align="center" style="box-sizing: border-box">
   <a href="https://github.com/victorhenrie">
