@@ -1,21 +1,20 @@
 ### Olá! Eu sou Victor Silva 👋
 
-
-- 🔭 Hoje trabalho com Direito, mas utilizo isso como fonte de aprendizado de lógica.
+- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica.
 - 🌱 Estudando Sass e JavaScript
-- 📫 Contateme pelas redes sociais @victorhenrie ou pelo email victorhrdsilva@gmail.com
 - 😄 Pronomes: ele/dele
+
 <div align="center">
   <a href="https://github.com/victorhenrie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhenrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenrie&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorhenrie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenrie&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SASS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png">
 </div>
   
   ##
