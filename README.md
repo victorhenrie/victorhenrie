@@ -1,6 +1,6 @@
 ### Olá! Eu sou Victor Silva 👋
 
-- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica. No entanto, encontrei uma nova paixão que é o desenvolvimento Front-End e estou em busca de entrar nessa área, me aperfeiçõando cada vez mais.
+- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica. No entanto, encontrei uma nova paixão que é o desenvolvimento FullStack e estou em busca de entrar nessa área, me aperfeiçõando cada vez mais.
 - 🌱 Conhecimento em Front-End e estudando Back-End, mais específicamente NodeJS e MongoDB.
 - 😄🏳‍🌈  Pronomes: ele/dele 
 
