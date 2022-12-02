@@ -1,6 +1,6 @@
 ### Olá! Eu sou Victor Silva 👋
 
-- 💼 Sou um desenvolvedor fullstack!
+- 💼 Sou um desenvolvedor Fullstack!
 - 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica. 
 - 🌱 Conhecimento em Front-End e estudando Back-End, mais específicamente NodeJS e MongoDB.
 - 😄🏳‍🌈  Pronomes: ele/dele 
