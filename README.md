@@ -1,8 +1,8 @@
 ### Olá! Eu sou Victor Silva 👋
 
-- 💼 Sou um desenvolvedor Fullstack!
+- 💼 Sou desenvolvedor Fullstack!
 - 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica. 
-- 🌱 Conhecimento em Front-End e estudando Back-End, mais específicamente NodeJS e MongoDB.
+- 🌱 Conhecimento em Front-End e Back-End e estudando Banco de Dados, mais específicamente Postgresql.
 - 😄🏳‍🌈  Pronomes: ele/dele 
 
 <div align="center" style="box-sizing: border-box">
@@ -20,6 +20,7 @@
   <img align="center" alt="Styled Component" height="50" width="50" src="https://cdn.sanity.io/images/djtlwm1o/production/cd48e3fba521deb47078ea36b7073e2f0e511af7-257x286.png">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
   
