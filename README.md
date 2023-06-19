@@ -1,8 +1,9 @@
 ### Olá! Eu sou Victor Silva 👋
 
 - 💼 Sou desenvolvedor Fullstack!
-- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica. 
-- 🌱 Conhecimento em Front-End e Back-End e estudando Postgresql.
+- 🔭 Hoje trabalho com Direito e utilizo essa possibilidade como fonte de aprendizado de lógica e para me aperfeiçoar na contrução de pontes.
+- :rocket: Desenvolvedor Frontend no projeto Primeiro Gestor pelo Sou Junor Lab.
+- 🌱 Estudando Prisma.
 - 😄🏳‍🌈  Pronomes: ele/dele 
 
 <div align="center" style="box-sizing: border-box">
